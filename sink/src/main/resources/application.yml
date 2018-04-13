@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: sink
+
+server:
+  port: 8082
+

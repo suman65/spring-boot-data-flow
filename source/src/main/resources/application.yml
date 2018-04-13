@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: source
+
+server:
+  port: 8081
